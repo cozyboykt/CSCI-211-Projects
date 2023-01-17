@@ -1,3 +1,5 @@
+// Kunsang Tsering
+// 8 Cross Problem
 #include <iostream>
 #include <cmath>
 using namespace std;
